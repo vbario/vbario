@@ -2,9 +2,9 @@
 
 I'm Vladimir. I'm currently working on:
 
-ResonantMail.com - 1:1 Personalization of every single email
-DefaultTools.com - This let me close 10-20 tabs and actually keep my organization in one place
-ClawzBot.com - Open Source Robot Powered 
+- ResonantMail.com - 1:1 Personalization of every single email
+- DefaultTools.com - This let me close 10-20 tabs and actually keep my organization in one place
+- ClawzBot.com - Open Source Robot Powered 
 
 <!--
 **vbario/vbario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
