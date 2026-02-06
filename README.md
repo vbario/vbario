@@ -4,6 +4,7 @@ I'm Vladimir. Here's some stuff:
 
 - ResonantMail.com - 1:1 Personalization of every single email
 - DefaultTools.com - This let me close 10-20 tabs and actually keep my organization in one place
+- ChatSetter.ai - Intagram DM tool that books appointments for you
 - ClawzBot.com - Open Source AI Robot
 
 <!--
