@@ -5,7 +5,7 @@ I'm Vladimir from Toronto. Check out:
 - ResonantMail.com - Get your first 100 customers with 1:1 personalized email
 - DefaultTools.com - This let me close 10-20 tabs and actually keep my organization in one place
 - ChatSetter.ai - Intagram DM tool that books appointments for you
-- ClawzBot.com - Open Source AI Robot
+- ClawzBot.com - Open Source AI Robot (coming soon)
 
 <!--
 **vbario/vbario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
