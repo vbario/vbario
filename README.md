@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Vladimir from Toronto. Check out:
+I'm Vladimir from Toronto. Check out my stuff:
 
 - ResonantMail.com - Get your first 100 customers with 1:1 personalized email
 - DefaultTools.com - This let me close 10-20 tabs and actually keep my organization in one place
