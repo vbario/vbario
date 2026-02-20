@@ -9,7 +9,7 @@ I'm Vladimir from Toronto. Here's some stuff:
 
 I'm currently working on:
 - Collapsing the marketing stack
-- Intelligency orchestration
+- Intelligence orchestration
 - Cognitive overhead reduction
 
 <!--
