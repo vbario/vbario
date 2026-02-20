@@ -11,8 +11,8 @@ I'm currently working on:
 - Collapsing the marketing stack
 - Intelligence orchestration
 - Cognitive overhead reduction
-- Continual/lifelong LLM learning
-- Unique persistent being
+- Continual/lifelong machine learning
+- Artificial life
 
 <!--
 **vbario/vbario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
