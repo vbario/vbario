@@ -7,6 +7,11 @@ I'm Vladimir from Toronto. Here's some stuff:
 - ChatSetter.ai - Intagram DM tool that books appointments for you
 - ClawzBot.com - Open Source AI Robot (coming soon)
 
+I'm currently working on:
+- Collapsing the marketing stack
+- Intelligency orchestration
+- Cognitive overhead reduction
+
 <!--
 **vbario/vbario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
