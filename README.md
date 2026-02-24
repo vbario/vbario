@@ -8,7 +8,7 @@ I'm Vladimir from Toronto. Check this out:
 
 Fields of interest:
 - Intelligence orchestration
-- Ergonomics and cognitive overhead reduction
+- Ergonomics and cognitive overhead management
 - Continual/lifelong machine learning
 - Digital biology
 - Collapsing the marketing stack
