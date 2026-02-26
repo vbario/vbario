@@ -4,11 +4,11 @@ I'm Vladimir from Toronto.
 
 ### Sleeping LLM — sleep-wake memory for language models
 
-A system that gives LLMs persistent memory by injecting facts directly into model weights during wake (via MEMIT) and maintaining them through sleep cycles with null-space-constrained refreshes. No RAG, no database — the knowledge is in the weights.
+A system that gives LLMs persistent memory by injecting facts directly into model weights during wake (via MEMIT) and consolidating them into LoRA during sleep. No RAG, no database — the knowledge is in the weights. MEMIT is short-term memory; LoRA is long-term memory. Sleep is the transfer between them.
 
-**Key results:** 100% recall at 60 facts on 70B with zero perplexity drift. Sleep converges to perfect recall from 40% degradation in 4 cycles. Sharp wake capacity threshold at 13 facts (8B) — a phase transition, not gradual decay.
+**Key results:** 100% recall at 60 facts on 70B with zero perplexity drift. Per-fact graduated consolidation achieves 100% advancement and 1.00 chat recall at all scales (5–20 facts), with MEMIT edits dissolving on schedule as LoRA absorbs each fact — making effective lifetime capacity unbounded.
 
-**5 research papers** covering the full trajectory from LoRA prototype through the alignment tax discovery to the current MEMIT-only system:
+**6 research papers** covering the full trajectory from LoRA prototype through the alignment tax discovery to per-fact graduated consolidation:
 
 | Paper | Topic | DOI |
 |-------|-------|-----|
@@ -17,6 +17,7 @@ A system that gives LLMs persistent memory by injecting facts directly into mode
 | 3. Dual-System Memory | MEMIT+LoRA, null-space constraints | [10.5281/zenodo.18778764](https://doi.org/10.5281/zenodo.18778764) |
 | 4. Sleeping LLM: Two-Phase | SWS+REM sleep, per-fact staged consolidation | [10.5281/zenodo.18778766](https://doi.org/10.5281/zenodo.18778766) |
 | 5. Sleep-Wake Convergence | MEMIT-only, convergence proof, pruning death spiral | [10.5281/zenodo.18778768](https://doi.org/10.5281/zenodo.18778768) |
+| 6. Per-Fact Graduated Consolidation | Resolves capacity ceiling, unbounded lifetime memory | [10.5281/zenodo.18779159](https://doi.org/10.5281/zenodo.18779159) |
 
 Code + experiments: [**vbario/sleeping-llm**](https://github.com/vbario/sleeping-llm)
 
