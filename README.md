@@ -1,6 +1,6 @@
 ## Hi there
 
-I'm Vladimir from Toronto.
+I'm Vladimir from Toronto. Here you can find my work on the Sleeping LLM.
 
 ### Sleeping LLM — sleep-wake memory for language models
 
