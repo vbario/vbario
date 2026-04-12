@@ -23,10 +23,4 @@ Code + experiments: [**vbario/sleeping-llm**](https://github.com/vbario/sleeping
 
 ---
 
-Other projects:
-- [ResonantMail.com](https://resonantmail.com) — Get your first 100 customers with 1:1 personalized email
-- [DefaultTools.com](https://defaulttools.com) — Collapse 10-20 tabs into one place
-- [ChatSetter.ai](https://chatsetter.ai) — Instagram DM tool that books appointments
-- ClawzBot.com — Open source AI robot (coming soon)
-
 Fields of interest: continual/lifelong machine learning, intelligence orchestration, digital biology, cognitive ergonomics
